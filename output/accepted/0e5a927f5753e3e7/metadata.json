@@ -1,0 +1,99 @@
+{
+  "file": "1647.mid",
+  "title": "Consolation",
+  "composer": "F. Liszt",
+  "genre": "Romantic",
+  "license": "CC-BY-3.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#cca",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1647",
+  "attribution": "Typeset by Ryan Prince rprincerp (at) gmail.com; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1647.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/LisztF/S.172/liszt-consolation-no3/liszt-consolation-no3.mid",
+  "piece_id": "1647",
+  "status": "accepted",
+  "sha256": "0e5a927f5753e3e7edf7f271efeb0c802d7476bed69c696798a06c780c5a1bb7",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 4.23,
+    "pitch_span": 65,
+    "chord_onset_fraction": 0.068,
+    "min_hand_notes": 411
+  },
+  "duration_sec": 243.0,
+  "segments": [
+    {
+      "segment_id": "0e5a927f5753e3e7_001",
+      "start_sec": 0.0,
+      "end_sec": 28.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/0e5a927f5753e3e7/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "0e5a927f5753e3e7_002",
+      "start_sec": 28.0,
+      "end_sec": 60.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/0e5a927f5753e3e7/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "0e5a927f5753e3e7_003",
+      "start_sec": 60.0,
+      "end_sec": 92.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/0e5a927f5753e3e7/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "0e5a927f5753e3e7_004",
+      "start_sec": 92.0,
+      "end_sec": 124.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/0e5a927f5753e3e7/segment_004.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "0e5a927f5753e3e7_005",
+      "start_sec": 124.0,
+      "end_sec": 156.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/0e5a927f5753e3e7/segment_005.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "0e5a927f5753e3e7_006",
+      "start_sec": 156.0,
+      "end_sec": 184.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/0e5a927f5753e3e7/segment_006.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "0e5a927f5753e3e7_007",
+      "start_sec": 184.0,
+      "end_sec": 212.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/0e5a927f5753e3e7/segment_007.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "0e5a927f5753e3e7_008",
+      "start_sec": 212.0,
+      "end_sec": 243.0,
+      "duration_sec": 31.0,
+      "midi_path": "accepted/0e5a927f5753e3e7/segment_008.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1647"
+}

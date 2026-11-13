@@ -1,0 +1,52 @@
+{
+  "file": "818.mid",
+  "title": "Traditioner af Swenska Folk-Dansar",
+  "composer": "(Traditional)",
+  "genre": "Folk",
+  "license": "CC-BY-2.5",
+  "license_url": "https://www.mutopiaproject.org/legal.html#cca",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=818",
+  "attribution": "Typeset by Erik Sjölund erik.sjolund (at) gmail.com; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "818.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/Traditional/traditioner_af_swenska_folk_dansar.1.12/traditioner_af_swenska_folk_dansar.1.12.mid",
+  "piece_id": "818",
+  "status": "accepted",
+  "sha256": "048b573ba76bf04dee3e276612dd35285b5a8e1a232549c2522ebf91352ba6d2",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 8.17,
+    "pitch_span": 41,
+    "chord_onset_fraction": 0.183,
+    "min_hand_notes": 94
+  },
+  "duration_sec": 24.0,
+  "segments": [
+    {
+      "segment_id": "048b573ba76bf04d_v5_001",
+      "start_sec": 0.0,
+      "end_sec": 24.0,
+      "duration_sec": 24.0,
+      "midi_path": "accepted/048b573ba76bf04d/segment_001.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=818",
+  "segmentation_version": "phrase_v5"
+}

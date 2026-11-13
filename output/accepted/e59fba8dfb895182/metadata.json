@@ -1,0 +1,51 @@
+{
+  "file": "2156.mid",
+  "title": "The Harebell",
+  "composer": "William Smallwood",
+  "genre": "Romantic",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2156",
+  "attribution": "Typeset by John Mamoun mamounjo (at) gmail.com; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "2156.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/SmallwoodW/the_harebell/the_harebell.mid",
+  "piece_id": "2156",
+  "status": "accepted",
+  "sha256": "e59fba8dfb895182ea715b3caff0b8a48a3fba8ec9852cb12632e5fd5b0e45e1",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "one": "R",
+    "two": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 5.6,
+    "pitch_span": 38,
+    "chord_onset_fraction": 0.021,
+    "min_hand_notes": 168
+  },
+  "duration_sec": 72.0,
+  "segments": [
+    {
+      "segment_id": "e59fba8dfb895182_001",
+      "start_sec": 0.0,
+      "end_sec": 36.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/e59fba8dfb895182/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "e59fba8dfb895182_002",
+      "start_sec": 36.0,
+      "end_sec": 72.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/e59fba8dfb895182/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2156"
+}

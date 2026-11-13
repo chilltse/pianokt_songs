@@ -1,0 +1,52 @@
+{
+  "file": "767.mid",
+  "title": "Air",
+  "composer": "Johann Sebastian Bach",
+  "genre": "Baroque",
+  "license": "CC-BY-SA-2.5",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=767",
+  "attribution": "Typeset by Anonymous http://www.geocities.com/webhost49; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "767.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh131/air/air.mid",
+  "piece_id": "767",
+  "status": "accepted",
+  "sha256": "9b6b5c0d106734dc1784b81b30f9dd6b70c21c55c76bf5a88333a2bfe023b0fe",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.23,
+    "pitch_span": 43,
+    "chord_onset_fraction": 0.0,
+    "min_hand_notes": 40
+  },
+  "duration_sec": 31.5,
+  "segments": [
+    {
+      "segment_id": "9b6b5c0d106734dc_v5_001",
+      "start_sec": 1.5,
+      "end_sec": 31.5,
+      "duration_sec": 30.0,
+      "midi_path": "phrase_v5/9b6b5c0d106734dc/segment_001.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=767",
+  "segmentation_version": "phrase_v5"
+}

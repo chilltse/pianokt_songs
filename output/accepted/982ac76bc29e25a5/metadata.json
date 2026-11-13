@@ -1,0 +1,147 @@
+{
+  "file": "1510.mid",
+  "title": "Piano Sonate Opus 31 No 2 (2nd Movement)",
+  "composer": "Ludwig Van Beethoven",
+  "genre": "Classical",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1510",
+  "attribution": "Typeset by Stelios Samelis; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1510.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O31/LVB_Sonate_31no2_2/LVB_Sonate_31no2_2.mid",
+  "piece_id": "1510",
+  "status": "accepted",
+  "sha256": "982ac76bc29e25a5db2b605dbf4e859bc5a69d09b012ac6f3491748ce7e216bf",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.46,
+    "pitch_span": 60,
+    "chord_onset_fraction": 0.239,
+    "min_hand_notes": 763
+  },
+  "duration_sec": 469.88,
+  "segments": [
+    {
+      "segment_id": "982ac76bc29e25a5_001",
+      "start_sec": 0.0,
+      "end_sec": 36.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_002",
+      "start_sec": 36.0,
+      "end_sec": 67.5,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_003",
+      "start_sec": 67.5,
+      "end_sec": 99.0,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_004",
+      "start_sec": 99.0,
+      "end_sec": 135.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_004.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_005",
+      "start_sec": 135.0,
+      "end_sec": 162.0,
+      "duration_sec": 27.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_005.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_006",
+      "start_sec": 162.0,
+      "end_sec": 189.0,
+      "duration_sec": 27.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_006.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_007",
+      "start_sec": 189.0,
+      "end_sec": 220.5,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_007.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_008",
+      "start_sec": 220.5,
+      "end_sec": 256.5,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_008.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_009",
+      "start_sec": 256.5,
+      "end_sec": 288.0,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_009.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_010",
+      "start_sec": 288.0,
+      "end_sec": 324.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_010.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_011",
+      "start_sec": 324.0,
+      "end_sec": 360.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_011.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_012",
+      "start_sec": 360.0,
+      "end_sec": 396.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_012.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_013",
+      "start_sec": 396.0,
+      "end_sec": 432.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_013.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "982ac76bc29e25a5_014",
+      "start_sec": 432.0,
+      "end_sec": 469.875,
+      "duration_sec": 37.875,
+      "midi_path": "accepted/982ac76bc29e25a5/segment_014.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1510"
+}

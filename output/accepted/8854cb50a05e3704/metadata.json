@@ -1,0 +1,276 @@
+{
+  "file": "358.mid",
+  "title": "Piano Sonata in C minor (KV. 457)",
+  "composer": "W.A. Mozart",
+  "genre": "Classical",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=358",
+  "attribution": "Typeset by Will Oram spamguy (at) foxchange.com http://www.foxchange.com/~spamguy/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "358.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV457/sonata3/sonata3.mid",
+  "piece_id": "358",
+  "status": "accepted",
+  "sha256": "8854cb50a05e37043c3c7256c0b196f29cd8d3b3ac78a8ed636e749aa1f8e1bb",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 4.99,
+    "pitch_span": 59,
+    "chord_onset_fraction": 0.133,
+    "min_hand_notes": 1062
+  },
+  "duration_sec": 434.55,
+  "segments": [
+    {
+      "segment_id": "8854cb50a05e3704_v5_001",
+      "start_sec": 0.0,
+      "end_sec": 32.72724,
+      "duration_sec": 32.727,
+      "midi_path": "accepted/8854cb50a05e3704/segment_001.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.455,
+        "post_rest": 1.818,
+        "shared_rest": 2.273,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_002",
+      "start_sec": 32.72724,
+      "end_sec": 59.99994,
+      "duration_sec": 27.273,
+      "midi_path": "accepted/8854cb50a05e3704/segment_002.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.455,
+        "post_rest": 0.455,
+        "shared_rest": 0.909,
+        "boundary_cost": -19.818,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_003",
+      "start_sec": 59.99994,
+      "end_sec": 87.27264,
+      "duration_sec": 27.273,
+      "midi_path": "accepted/8854cb50a05e3704/segment_003.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_004",
+      "start_sec": 87.27264,
+      "end_sec": 117.27261,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/8854cb50a05e3704/segment_004.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_005",
+      "start_sec": 117.27261,
+      "end_sec": 139.09077,
+      "duration_sec": 21.818,
+      "midi_path": "accepted/8854cb50a05e3704/segment_005.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.455,
+        "post_rest": 1.364,
+        "shared_rest": 1.818,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_006",
+      "start_sec": 139.09077,
+      "end_sec": 174.54528,
+      "duration_sec": 35.455,
+      "midi_path": "accepted/8854cb50a05e3704/segment_006.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 1.818,
+        "post_rest": 0.455,
+        "shared_rest": 2.273,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_007",
+      "start_sec": 174.54528,
+      "end_sec": 196.36344,
+      "duration_sec": 21.818,
+      "midi_path": "accepted/8854cb50a05e3704/segment_007.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.455,
+        "post_rest": 1.818,
+        "shared_rest": 2.273,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_008",
+      "start_sec": 196.36344,
+      "end_sec": 226.36341,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/8854cb50a05e3704/segment_008.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.455,
+        "post_rest": 0.455,
+        "shared_rest": 0.909,
+        "boundary_cost": -19.818,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_009",
+      "start_sec": 226.36341,
+      "end_sec": 259.09065,
+      "duration_sec": 32.727,
+      "midi_path": "accepted/8854cb50a05e3704/segment_009.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_010",
+      "start_sec": 259.09065,
+      "end_sec": 297.27243,
+      "duration_sec": 38.182,
+      "midi_path": "accepted/8854cb50a05e3704/segment_010.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.682,
+        "boundary_cost": 0.702,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_011",
+      "start_sec": 297.27243,
+      "end_sec": 325.90876,
+      "duration_sec": 28.636,
+      "midi_path": "accepted/8854cb50a05e3704/segment_011.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.455,
+        "post_rest": 1.364,
+        "shared_rest": 1.818,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_012",
+      "start_sec": 325.90876,
+      "end_sec": 350.45419,
+      "duration_sec": 24.545,
+      "midi_path": "accepted/8854cb50a05e3704/segment_012.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 1.818,
+        "post_rest": 0.455,
+        "shared_rest": 2.273,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_013",
+      "start_sec": 350.45419,
+      "end_sec": 372.27235,
+      "duration_sec": 21.818,
+      "midi_path": "accepted/8854cb50a05e3704/segment_013.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.455,
+        "post_rest": 1.818,
+        "shared_rest": 2.273,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_014",
+      "start_sec": 372.27235,
+      "end_sec": 396.81778,
+      "duration_sec": 24.545,
+      "midi_path": "accepted/8854cb50a05e3704/segment_014.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "8854cb50a05e3704_v5_015",
+      "start_sec": 396.81778,
+      "end_sec": 434.54502,
+      "duration_sec": 37.727,
+      "midi_path": "accepted/8854cb50a05e3704/segment_015.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=358",
+  "segmentation_version": "phrase_v5"
+}

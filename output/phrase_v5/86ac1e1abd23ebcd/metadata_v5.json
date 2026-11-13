@@ -1,0 +1,84 @@
+{
+  "file": "1654.mid",
+  "title": "Consolation",
+  "composer": "F. Liszt",
+  "genre": "Romantic",
+  "license": "CC-BY-3.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#cca",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1654",
+  "attribution": "Typeset by Ryan Prince rprincerp (at) gmail.com; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1654.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/LisztF/S.172/liszt-consolation-no1/liszt-consolation-no1.mid",
+  "piece_id": "1654",
+  "status": "accepted",
+  "sha256": "86ac1e1abd23ebcd2d9b62e63298aae9ddb26d0543a16c3e1de04f0192410c9a",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 2.69,
+    "pitch_span": 45,
+    "chord_onset_fraction": 0.4,
+    "min_hand_notes": 111
+  },
+  "duration_sec": 99.0,
+  "segments": [
+    {
+      "segment_id": "86ac1e1abd23ebcd_v5_001",
+      "start_sec": 1.0,
+      "end_sec": 40.0,
+      "duration_sec": 39.0,
+      "midi_path": "phrase_v5/86ac1e1abd23ebcd/segment_001.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "86ac1e1abd23ebcd_v5_002",
+      "start_sec": 40.0,
+      "end_sec": 72.0,
+      "duration_sec": 32.0,
+      "midi_path": "phrase_v5/86ac1e1abd23ebcd/segment_002.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.0,
+        "post_rest": 1.0,
+        "shared_rest": 1.0,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "86ac1e1abd23ebcd_v5_003",
+      "start_sec": 72.0,
+      "end_sec": 99.0,
+      "duration_sec": 27.0,
+      "midi_path": "phrase_v5/86ac1e1abd23ebcd/segment_003.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1654",
+  "segmentation_version": "phrase_v5"
+}

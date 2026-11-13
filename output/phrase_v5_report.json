@@ -1,0 +1,1019 @@
+[
+  {
+    "piece_id": "826",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "0f1cd2215ca7f20df204e5fcc97a647095d39bbea8101bf5508685f425de036b",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1006",
+    "title": "Chorale setting \\",
+    "sha256": "e93083ac39271b0be37c7ee4c4885e7a9beb728a005e581d1a64139e157be500",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "e93083ac39271b0b_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 23.0,
+        "duration_sec": 23.0,
+        "midi_path": "phrase_v5/e93083ac39271b0b/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "951",
+    "title": "Lani",
+    "sha256": "498f938266711023ce0b8cbb8d638c21631669e83d2a85f5a436aea9690f129a",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1480",
+    "title": "Suite BWV 1006a",
+    "sha256": "023bcce0824a5ea1af6aa7b4b06830312339f22f1b02bc719d3b811d53f52816",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1510",
+    "title": "Piano Sonate Opus 31 No 2 (2nd Movement)",
+    "sha256": "982ac76bc29e25a5db2b605dbf4e859bc5a69d09b012ac6f3491748ce7e216bf",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "45",
+    "title": "3. VĔTA ZE SONÁTY G DUR",
+    "sha256": "dc8205ec648e788568f743a3850f540edce264b365013c097b0854b46106fcac",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "dc8205ec648e7885_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 22.0,
+        "duration_sec": 22.0,
+        "midi_path": "phrase_v5/dc8205ec648e7885/segment_001.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "dc8205ec648e7885_v5_002",
+        "start_sec": 22.0,
+        "end_sec": 54.0,
+        "duration_sec": 32.0,
+        "midi_path": "phrase_v5/dc8205ec648e7885/segment_002.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "dc8205ec648e7885_v5_003",
+        "start_sec": 54.0,
+        "end_sec": 94.0,
+        "duration_sec": 40.0,
+        "midi_path": "phrase_v5/dc8205ec648e7885/segment_003.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "dc8205ec648e7885_v5_004",
+        "start_sec": 94.0,
+        "end_sec": 120.0,
+        "duration_sec": 26.0,
+        "midi_path": "phrase_v5/dc8205ec648e7885/segment_004.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "870",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "020a44473b4f4acf4204639de4b14685c9d81d17196f9e959a71622de2c57998",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "2106",
+    "title": "Ermuntre dich, mein schwacher Geist",
+    "sha256": "aa1eb3d5952403b37b5c5f2f441b040b73cbff0c3cd1069d1fb3ec88c4b81107",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "38",
+    "title": "Gymnopédie No. 2",
+    "sha256": "02e8ae8d7e1f6073f12f62a61a63cf07b260a1cf49f4a9008ee4e3f8e1934d30",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "2175",
+    "title": "Prélude",
+    "sha256": "be0a8cb0c9983e24473f3095474dfb2fe1cee5b137fbf3877dc79ade3d24fed3",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "be0a8cb0c9983e24_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 27.375,
+        "duration_sec": 27.375,
+        "midi_path": "phrase_v5/be0a8cb0c9983e24/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "358",
+    "title": "Piano Sonata in C minor (KV. 457)",
+    "sha256": "8854cb50a05e37043c3c7256c0b196f29cd8d3b3ac78a8ed636e749aa1f8e1bb",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "8854cb50a05e3704_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 32.72724,
+        "duration_sec": 32.727,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_001.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.455,
+          "post_rest": 1.818,
+          "shared_rest": 2.273,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_002",
+        "start_sec": 32.72724,
+        "end_sec": 59.99994,
+        "duration_sec": 27.273,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_002.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.455,
+          "post_rest": 0.455,
+          "shared_rest": 0.909,
+          "boundary_cost": -19.818,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_003",
+        "start_sec": 59.99994,
+        "end_sec": 87.27264,
+        "duration_sec": 27.273,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_003.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_004",
+        "start_sec": 87.27264,
+        "end_sec": 117.27261,
+        "duration_sec": 30.0,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_004.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_005",
+        "start_sec": 117.27261,
+        "end_sec": 139.09077,
+        "duration_sec": 21.818,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_005.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.455,
+          "post_rest": 1.364,
+          "shared_rest": 1.818,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_006",
+        "start_sec": 139.09077,
+        "end_sec": 174.54528,
+        "duration_sec": 35.455,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_006.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 1.818,
+          "post_rest": 0.455,
+          "shared_rest": 2.273,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_007",
+        "start_sec": 174.54528,
+        "end_sec": 196.36344,
+        "duration_sec": 21.818,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_007.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.455,
+          "post_rest": 1.818,
+          "shared_rest": 2.273,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_008",
+        "start_sec": 196.36344,
+        "end_sec": 226.36341,
+        "duration_sec": 30.0,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_008.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.455,
+          "post_rest": 0.455,
+          "shared_rest": 0.909,
+          "boundary_cost": -19.818,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_009",
+        "start_sec": 226.36341,
+        "end_sec": 259.09065,
+        "duration_sec": 32.727,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_009.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_010",
+        "start_sec": 259.09065,
+        "end_sec": 297.27243,
+        "duration_sec": 38.182,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_010.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.682,
+          "boundary_cost": 0.702,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_011",
+        "start_sec": 297.27243,
+        "end_sec": 325.90876,
+        "duration_sec": 28.636,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_011.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.455,
+          "post_rest": 1.364,
+          "shared_rest": 1.818,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_012",
+        "start_sec": 325.90876,
+        "end_sec": 350.45419,
+        "duration_sec": 24.545,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_012.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 1.818,
+          "post_rest": 0.455,
+          "shared_rest": 2.273,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_013",
+        "start_sec": 350.45419,
+        "end_sec": 372.27235,
+        "duration_sec": 21.818,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_013.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.455,
+          "post_rest": 1.818,
+          "shared_rest": 2.273,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_014",
+        "start_sec": 372.27235,
+        "end_sec": 396.81778,
+        "duration_sec": 24.545,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_014.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "8854cb50a05e3704_v5_015",
+        "start_sec": 396.81778,
+        "end_sec": 434.54502,
+        "duration_sec": 37.727,
+        "midi_path": "phrase_v5/8854cb50a05e3704/segment_015.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "354",
+    "title": "Kinderscenen",
+    "sha256": "e58e708afe8b31c634a0e9f3354a4ed94670e929d82926f7ff49dea3ebe146c2",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "e58e708afe8b31c6_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 22.0,
+        "duration_sec": 22.0,
+        "midi_path": "phrase_v5/e58e708afe8b31c6/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "37",
+    "title": "Gymnopédie No. 1",
+    "sha256": "09ce7337b4bf42ba12e1aa64b4c7dc7fcfa6455f1070cb12f8880a755df97384",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "845",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "53d88606c09617d1ab3f6691e4403bad74cfb9afbb746cbe828805e493e47afa",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "2032",
+    "title": "Morning Prayer",
+    "sha256": "7ec37d25e8ea12d0b2053a5916140f7d03b4cdf1357c01171fd8a3c1d8c6e50f",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1481",
+    "title": "Suite BWV 1006a",
+    "sha256": "0e65f033855003eea6746a4b0ad4c779f9347bce04a477a0761fddda947f0960",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1477",
+    "title": "Suite BWV 1006a",
+    "sha256": "2372c4f36f6054e76b89367c6e90c0d8a8ac789069aec63d3632359fd76e14a2",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "778",
+    "title": "Sonate Opus 10 No.1 - 1st Movement",
+    "sha256": "cabc8de6a267d8dc16bd9baed7d924c58c637b0147196a3d252a925fc6e5dcf9",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "875",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "62fd1d44d8c00091cadca95c33129d981410fb633339a3f490ffb9d00fb022c8",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "62fd1d44d8c00091_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 23.5,
+        "duration_sec": 23.5,
+        "midi_path": "phrase_v5/62fd1d44d8c00091/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "1615",
+    "title": "Polonaise in D minor",
+    "sha256": "0304fd1e65e1e27d613a0b6286a8dcabf99043389c0967addd6703b35d826da9",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1476",
+    "title": "Suite BWV 1006a",
+    "sha256": "c915cfb8ab5fb3b76b2c3e95d991d7e12209be83b935d4089ab0da50ebf08779",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "863",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "c23505ad122b06d84ca1e9e038b8539bf3b8fc6fb4b4f145b197b6533c47a12e",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "c23505ad122b06d8_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 30.0,
+        "duration_sec": 30.0,
+        "midi_path": "phrase_v5/c23505ad122b06d8/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "2026",
+    "title": "Chapitres Tournés en Tous Sens",
+    "sha256": "3ea01cba8e2d998c91e4f0f3f7417b16b662f0682310f2a042656aab5d6302e6",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "3ea01cba8e2d998c_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 22.5,
+        "duration_sec": 22.5,
+        "midi_path": "phrase_v5/3ea01cba8e2d998c/segment_001.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 2.0,
+          "post_rest": 2.0,
+          "shared_rest": 4.0,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "3ea01cba8e2d998c_v5_002",
+        "start_sec": 22.5,
+        "end_sec": 55.5,
+        "duration_sec": 33.0,
+        "midi_path": "phrase_v5/3ea01cba8e2d998c/segment_002.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.047,
+          "post_rest": 1.0,
+          "shared_rest": 1.047,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "3ea01cba8e2d998c_v5_003",
+        "start_sec": 55.5,
+        "end_sec": 81.0,
+        "duration_sec": 25.5,
+        "midi_path": "phrase_v5/3ea01cba8e2d998c/segment_003.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 2,
+          "pre_rest": 0.047,
+          "post_rest": 0.0,
+          "shared_rest": 0.047,
+          "boundary_cost": 10.786,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "3ea01cba8e2d998c_v5_004",
+        "start_sec": 81.0,
+        "end_sec": 103.125,
+        "duration_sec": 22.125,
+        "midi_path": "phrase_v5/3ea01cba8e2d998c/segment_004.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "1004",
+    "title": "Flat",
+    "sha256": "757e215de3f034d6860897f0e06a20cafb374d5dca9ec6301a20c43a557371e9",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "39",
+    "title": "Gymnopédie No. 3",
+    "sha256": "fd1dceff4da08e997b083acc5b571bebe980bc89421b75b052dbb93ecf06ca23",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "357",
+    "title": "Piano Sonata in C minor (KV. 457)",
+    "sha256": "5e9d640ea30f33fadba2fd988f76173639139e6547a19c5864317ac48691e407",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "2156",
+    "title": "The Harebell",
+    "sha256": "e59fba8dfb895182ea715b3caff0b8a48a3fba8ec9852cb12632e5fd5b0e45e1",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "818",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "048b573ba76bf04dee3e276612dd35285b5a8e1a232549c2522ebf91352ba6d2",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "048b573ba76bf04d_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 24.0,
+        "duration_sec": 24.0,
+        "midi_path": "phrase_v5/048b573ba76bf04d/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "657",
+    "title": "Prelude",
+    "sha256": "e9649d96c7b50cf8ac6d08d4bf978b28bdd9d3b1da4d0890811006afb8de2f6b",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "822",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "5557b286d645c633391341800c47363f6a95e9a6512703e3bfc763ceefa9e936",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "767",
+    "title": "Air",
+    "sha256": "9b6b5c0d106734dc1784b81b30f9dd6b70c21c55c76bf5a88333a2bfe023b0fe",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "9b6b5c0d106734dc_v5_001",
+        "start_sec": 1.5,
+        "end_sec": 31.5,
+        "duration_sec": 30.0,
+        "midi_path": "phrase_v5/9b6b5c0d106734dc/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "860",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "904da401dda375f85736bd1674bc3b5139c6295333fbd43ede630cb28d4f7595",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "2009",
+    "title": "Gott, wie gross ist deine Güte",
+    "sha256": "5c12f0a6f778a12dc06d7a37556eb8dea563f95a0d941a18163c4b41d088049b",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1654",
+    "title": "Consolation",
+    "sha256": "86ac1e1abd23ebcd2d9b62e63298aae9ddb26d0543a16c3e1de04f0192410c9a",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "86ac1e1abd23ebcd_v5_001",
+        "start_sec": 1.0,
+        "end_sec": 40.0,
+        "duration_sec": 39.0,
+        "midi_path": "phrase_v5/86ac1e1abd23ebcd/segment_001.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "86ac1e1abd23ebcd_v5_002",
+        "start_sec": 40.0,
+        "end_sec": 72.0,
+        "duration_sec": 32.0,
+        "midi_path": "phrase_v5/86ac1e1abd23ebcd/segment_002.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0.0,
+          "post_rest": 1.0,
+          "shared_rest": 1.0,
+          "boundary_cost": -20.0,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "86ac1e1abd23ebcd_v5_003",
+        "start_sec": 72.0,
+        "end_sec": 99.0,
+        "duration_sec": 27.0,
+        "midi_path": "phrase_v5/86ac1e1abd23ebcd/segment_003.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "1647",
+    "title": "Consolation",
+    "sha256": "0e5a927f5753e3e7edf7f271efeb0c802d7476bed69c696798a06c780c5a1bb7",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "910",
+    "title": "Miniature No.2",
+    "sha256": "a2dc5c7474752ad77bd8736f6fa8ac6a9e3d5eba030b02b7c0a8f93244dbf837",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "2080",
+    "title": "Old French Song",
+    "sha256": "112c3b61dab55f58bc44d9f3522ef21b3479ffa1953097783ff8c4f10e40175d",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1484",
+    "title": "Suite BWV 1006a",
+    "sha256": "67d6f313890d1dffc5aded9e4dc66392586c46beed127cc88760309ea530e845",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "868",
+    "title": "Traditioner af Swenska Folk-Dansar",
+    "sha256": "6c3c607e0d02082e05cea42edb959a948fd0c8dd68f57243a5c6d0d42a361696",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1483",
+    "title": "Suite BWV 1006a",
+    "sha256": "fd62b4478a9f82b0b701f3e20a3fdd54b4f46aa9cfc58339b1d357925e626863",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1482",
+    "title": "Suite BWV 1006a",
+    "sha256": "8dc3d07c231619be0f64da77bd5908509b59902084906578ea20c5e63181010e",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "1778",
+    "title": "Suite Bergamasque – Clair de Lune",
+    "sha256": "4eee9a1546ffde1ff74cb9824ba0e57cbc821185a15185bfea9faed97820bf8c",
+    "status": "needs_manual_segmentation",
+    "reason": "no_nonabrupt_full_coverage_20_40_sec_partition"
+  },
+  {
+    "piece_id": "git_23cb291184ca68e5",
+    "title": "3. VĔTA ZE SONÁTY G DUR",
+    "sha256": "b9560fa829fa345b5e5ca0e5db1f29736cf9be5e7d1b19768e02cbd9184edf4b",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "b9560fa829fa345b_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 40.0,
+        "duration_sec": 40.0,
+        "midi_path": "phrase_v5/b9560fa829fa345b/segment_001.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 2,
+          "pre_rest": 0.25,
+          "post_rest": 0.0,
+          "shared_rest": 0.25,
+          "boundary_cost": 4.25,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "b9560fa829fa345b_v5_002",
+        "start_sec": 40.0,
+        "end_sec": 72.0,
+        "duration_sec": 32.0,
+        "midi_path": "phrase_v5/b9560fa829fa345b/segment_002.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 1,
+          "pre_rest": 0.0,
+          "post_rest": 0.0,
+          "shared_rest": 0.0,
+          "boundary_cost": 7.52,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "b9560fa829fa345b_v5_003",
+        "start_sec": 72.0,
+        "end_sec": 96.0,
+        "duration_sec": 24.0,
+        "midi_path": "phrase_v5/b9560fa829fa345b/segment_003.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 2,
+          "pre_rest": 0.25,
+          "post_rest": 0.0,
+          "shared_rest": 0.25,
+          "boundary_cost": 4.25,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "b9560fa829fa345b_v5_004",
+        "start_sec": 96.0,
+        "end_sec": 120.0,
+        "duration_sec": 24.0,
+        "midi_path": "phrase_v5/b9560fa829fa345b/segment_004.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "git_c5b7349d54b42239",
+    "title": "La Petite Réunion",
+    "sha256": "324166dbd173f73852c3c531a1cd6eeb244403a5625418040eb551b78e421245",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "324166dbd173f738_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 22.10522,
+        "duration_sec": 22.105,
+        "midi_path": "phrase_v5/324166dbd173f738/segment_001.mid",
+        "cut_metrics": {
+          "crossing_notes": 0,
+          "attacks": 2,
+          "pre_rest": 0.395,
+          "post_rest": 0.0,
+          "shared_rest": 0.395,
+          "boundary_cost": 0.921,
+          "abrupt": false
+        }
+      },
+      {
+        "segment_id": "324166dbd173f738_v5_002",
+        "start_sec": 22.10522,
+        "end_sec": 46.97358,
+        "duration_sec": 24.868,
+        "midi_path": "phrase_v5/324166dbd173f738/segment_002.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "git_be77c1bba5d0a02a",
+    "title": "Progrès",
+    "sha256": "086d57c4b03e550907a2532610034a9b1c0c52e8c50122edf983b810cba296aa",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "086d57c4b03e5509_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 29.09088,
+        "duration_sec": 29.091,
+        "midi_path": "phrase_v5/086d57c4b03e5509/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "git_5e8a572cdad7bc3b",
+    "title": "Tendre Fleur",
+    "sha256": "019d0a34e14fb4eaed4b24d2e1bec7de47f94ef0ef8e4553242f54bdd6720aac",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "019d0a34e14fb4ea_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 37.49992,
+        "duration_sec": 37.5,
+        "midi_path": "phrase_v5/019d0a34e14fb4ea/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  },
+  {
+    "piece_id": "git_e0a8a65d8699076e",
+    "title": "Douce Plainte",
+    "sha256": "fa08d1b8587147a45da07eb193bfb3a84676ca80a81a1a59c7e21b67c41f7808",
+    "status": "ready_for_listening_review",
+    "segments": [
+      {
+        "segment_id": "fa08d1b8587147a4_v5_001",
+        "start_sec": 0.0,
+        "end_sec": 33.57139,
+        "duration_sec": 33.571,
+        "midi_path": "phrase_v5/fa08d1b8587147a4/segment_001.mid",
+        "cut_metrics": {
+          "boundary_cost": 0,
+          "abrupt": false,
+          "crossing_notes": 0,
+          "attacks": 0,
+          "pre_rest": 0,
+          "post_rest": 0,
+          "shared_rest": 0
+        }
+      }
+    ]
+  }
+]

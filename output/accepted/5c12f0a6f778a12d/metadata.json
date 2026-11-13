@@ -1,0 +1,51 @@
+{
+  "file": "2009.mid",
+  "title": "Gott, wie gross ist deine Güte",
+  "composer": "Johann Sebastian Bach",
+  "genre": "Baroque",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2009",
+  "attribution": "Typeset by David McNamara mapadofu (at) github; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "2009.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BachJS/BWV462/bwv_462/bwv_462.mid",
+  "piece_id": "2009",
+  "status": "accepted",
+  "sha256": "5c12f0a6f778a12dc06d7a37556eb8dea563f95a0d941a18163c4b41d088049b",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 2,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.19,
+    "pitch_span": 41,
+    "chord_onset_fraction": 0.0,
+    "min_hand_notes": 78
+  },
+  "duration_sec": 54.86,
+  "segments": [
+    {
+      "segment_id": "5c12f0a6f778a12d_001",
+      "start_sec": 0.0,
+      "end_sec": 27.4285,
+      "duration_sec": 27.4285,
+      "midi_path": "accepted/5c12f0a6f778a12d/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "5c12f0a6f778a12d_002",
+      "start_sec": 27.4285,
+      "end_sec": 54.8571,
+      "duration_sec": 27.4286,
+      "midi_path": "accepted/5c12f0a6f778a12d/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2009"
+}

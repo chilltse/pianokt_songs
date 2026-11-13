@@ -1,0 +1,83 @@
+{
+  "file": "38.mid",
+  "title": "Gymnopédie No. 2",
+  "composer": "Erik Satie",
+  "genre": "Classical",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=38",
+  "attribution": "Typeset by Evin Robertson nitfol (at) my-deja.com; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "38.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/SatieE/gymnopedie_2/gymnopedie_2.mid",
+  "piece_id": "38",
+  "status": "accepted",
+  "sha256": "02e8ae8d7e1f6073f12f62a61a63cf07b260a1cf49f4a9008ee4e3f8e1934d30",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "treble": "R",
+    "bass": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 1.9,
+    "pitch_span": 50,
+    "chord_onset_fraction": 0.442,
+    "min_hand_notes": 65
+  },
+  "duration_sec": 195.0,
+  "segments": [
+    {
+      "segment_id": "02e8ae8d7e1f6073_001",
+      "start_sec": 0.0,
+      "end_sec": 36.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/02e8ae8d7e1f6073/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "02e8ae8d7e1f6073_002",
+      "start_sec": 36.0,
+      "end_sec": 69.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/02e8ae8d7e1f6073/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "02e8ae8d7e1f6073_003",
+      "start_sec": 69.0,
+      "end_sec": 99.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/02e8ae8d7e1f6073/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "02e8ae8d7e1f6073_004",
+      "start_sec": 99.0,
+      "end_sec": 132.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/02e8ae8d7e1f6073/segment_004.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "02e8ae8d7e1f6073_005",
+      "start_sec": 132.0,
+      "end_sec": 165.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/02e8ae8d7e1f6073/segment_005.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "02e8ae8d7e1f6073_006",
+      "start_sec": 165.0,
+      "end_sec": 195.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/02e8ae8d7e1f6073/segment_006.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=38"
+}

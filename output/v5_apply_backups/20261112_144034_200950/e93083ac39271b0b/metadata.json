@@ -1,0 +1,43 @@
+{
+  "file": "1006.mid",
+  "title": "Chorale setting \\",
+  "composer": "Johann Sebastian Bach",
+  "genre": "Baroque",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1006",
+  "attribution": "Typeset by Steven McDougall swmcd (at) world.std.com http://world.std.com/~swmcd/steven/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1006.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BachJS/BWV510/BWV-510/BWV-510.mid",
+  "piece_id": "1006",
+  "status": "accepted",
+  "sha256": "e93083ac39271b0be37c7ee4c4885e7a9beb728a005e581d1a64139e157be500",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 4.65,
+    "pitch_span": 43,
+    "chord_onset_fraction": 0.094,
+    "min_hand_notes": 53
+  },
+  "duration_sec": 23.0,
+  "segments": [
+    {
+      "segment_id": "e93083ac39271b0b_001",
+      "start_sec": 0.0,
+      "end_sec": 23.0,
+      "duration_sec": 23.0,
+      "midi_path": "accepted/e93083ac39271b0b/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1006"
+}

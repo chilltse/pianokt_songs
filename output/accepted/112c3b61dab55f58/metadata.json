@@ -1,0 +1,51 @@
+{
+  "file": "2080.mid",
+  "title": "Old French Song",
+  "composer": "Peter Ilyich Tchaikovsky",
+  "genre": "Classical",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2080",
+  "attribution": "Typeset by David McNamara; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "2080.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O39/16OldFrenchSong/16OldFrenchSong.mid",
+  "piece_id": "2080",
+  "status": "accepted",
+  "sha256": "112c3b61dab55f58bc44d9f3522ef21b3479ffa1953097783ff8c4f10e40175d",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 2,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.4,
+    "pitch_span": 34,
+    "chord_onset_fraction": 0.122,
+    "min_hand_notes": 89
+  },
+  "duration_sec": 55.29,
+  "segments": [
+    {
+      "segment_id": "112c3b61dab55f58_001",
+      "start_sec": 0.0,
+      "end_sec": 29.1428,
+      "duration_sec": 29.1428,
+      "midi_path": "accepted/112c3b61dab55f58/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "112c3b61dab55f58_002",
+      "start_sec": 29.1428,
+      "end_sec": 55.2857,
+      "duration_sec": 26.1428,
+      "midi_path": "accepted/112c3b61dab55f58/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2080"
+}

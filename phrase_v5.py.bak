@@ -1,0 +1,153 @@
+#!/usr/bin/env python3
+"""Conservative piano phrase segmentation; no hard 30-second grid.
+
+V5 searches measure-end candidates, scores pauses / sustained notes / onset
+attacks, then minimizes global segmentation cost. If there is no non-abrupt
+20-40s solution it RETURNS NO SEGMENTS rather than chopping notes.
+"""
+from __future__ import annotations
+import argparse, bisect, csv, json, math, re
+from pathlib import Path
+from collections import Counter
+import pretty_midi
+
+
+def _notes(hands):
+    return sorted(hands['L'].notes + hands['R'].notes, key=lambda n:n.start)
+
+
+def _ending_gap(ns,t):
+    before=[n.end for n in ns if n.end<=t+0.025 and n.end>t-5]
+    after=[n.start for n in ns if n.start>=t-0.025 and n.start<t+5]
+    gap_left=t-max(before) if before else 1.0
+    gap_right=min(after)-t if after else 1.0
+    return max(0.,min(2.,gap_left)),max(0.,min(2.,gap_right))
+
+
+def boundary_features(hands,t):
+    notes=_notes(hands)
+    crossing=sum(n.start<t-0.03 and n.end>t+0.03 for n in notes)
+    attacks=sum(abs(n.start-t)<0.11 for n in notes)
+    pre,post=_ending_gap(notes,t)
+    lp,lq=_ending_gap(hands['L'].notes,t)
+    rp,rq=_ending_gap(hands['R'].notes,t)
+    shared_rest=min(lp+ lq,rp+rq)
+    # A bar boundary with no sustained note is not sufficient by itself.
+    cost=(65*crossing+5.0*attacks+14.0*max(0.,0.18-pre-post)
+          -min(12.0,13.0*(pre+post))-min(8.0,10.0*shared_rest))
+    return dict(crossing_notes=crossing,attacks=attacks,pre_rest=round(pre,3),
+                post_rest=round(post,3),shared_rest=round(shared_rest,3),
+                boundary_cost=round(cost,3),
+                abrupt=bool(crossing>0 or (attacks>=3 and pre+post<0.10)))
+
+
+def segment_bounds(pm,hands,min_s=20.,max_s=40.,ideal_s=30.,max_cut_cost=12.):
+    """Return ([(start,end,feature)],reason), never force abrupt cut."""
+    notes=_notes(hands)
+    if len(notes)<16:return [],'too_few_notes'
+    first=min(n.start for n in notes);last=max(n.end for n in notes)
+    if last-first<min_s:return [],'shorter_than_minimum'
+    downbeats=[float(x) for x in pm.get_downbeats()]
+    # Include final note offset as last endpoint, but not arbitrary interior times.
+    cand=[first]+[x for x in downbeats if first+0.02<x<last-0.02]+[last]
+    cand=sorted(set(round(x,5) for x in cand))
+    # Use an early excerpt only if the entire piece cannot tile into valid phrases:
+    # This is intentionally NO: silently dropping an unsegmentable tail is bad.
+    if len(cand)<3:return [],'no_measure_boundaries'
+    scores=[boundary_features(hands,x) if 0<i<len(cand)-1 else {'boundary_cost':0,'abrupt':False,
+             'crossing_notes':0,'attacks':0,'pre_rest':0,'post_rest':0,'shared_rest':0}
+            for i,x in enumerate(cand)]
+    n=len(cand); dp=[math.inf]*n; parents=[-1]*n
+    dp[0]=0.0
+    for j in range(1,n):
+        for i in range(j-1,-1,-1):
+            dur=cand[j]-cand[i]
+            if dur>max_s+1e-6:break
+            if dur<min_s-1e-6 or not math.isfinite(dp[i]):continue
+            # Strict interior cut: no note across boundary, avoid dense attacks.
+            if j<n-1 and (scores[j]['abrupt'] or scores[j]['boundary_cost']>max_cut_cost):continue
+            # Encourage 2/4/8 bar groupings over irregular cuts, but not overriding a rest.
+            bars=j-i
+            formal=0 if bars%4==0 else (1.5 if bars%2==0 else 4.)
+            length_penalty=((dur-ideal_s)/10.)**2
+            value=dp[i]+(scores[j]['boundary_cost']+12 if j<n-1 else 0)+length_penalty+formal
+            if value<dp[j]:dp[j]=value;parents[j]=i
+    if parents[-1]<0:return [],'no_nonabrupt_full_coverage_20_40_sec_partition'
+    result=[];j=n-1
+    while j>0:
+        i=parents[j]
+        result.append((cand[i],cand[j],scores[j]))
+        j=i
+    return result[::-1],None
+
+
+def _hand_lookup(pm,record):
+    ins=[i for i in pm.instruments if i.notes and not i.is_drum]
+    if len(ins)!=2:return None
+    m=record.get('score_staff_names') or {}
+    def clean(s):return re.sub('[^a-z]','',s.lower())
+    found={}
+    for ins0 in ins:
+        key=clean(ins0.name)
+        side=None
+        if key in ('lefthand','left','lh','lower','down'):side='L'
+        elif key in ('righthand','right','rh','upper','up'):side='R'
+        else:
+            for staff, s in m.items():
+                if clean(staff)==key:side=s
+        if not side or side in found:return None
+        found[side]=ins0
+    return found if len(found)==2 else None
+
+
+def audit_and_segment(out='output',min_s=20.,max_s=40.,ideal_s=30.,max_cut_cost=12.,limit=0):
+    import build
+    out=Path(out);audit=out/'audit.json'
+    if not audit.exists():raise FileNotFoundError(audit)
+    records=json.loads(audit.read_text(encoding='utf-8'))
+    accepted=[r for r in records if r.get('status')=='accepted']
+    if limit:accepted=accepted[:limit]
+    report=[];good=[]
+    for k,rec in enumerate(accepted,1):
+        key=rec.get('sha256','')[:16]
+        ref=out/'accepted'/key/'reference.mid'
+        result={'piece_id':rec.get('piece_id',''),'title':rec.get('title',''),'sha256':rec.get('sha256','')}
+        try:
+            pm=pretty_midi.PrettyMIDI(str(ref))
+            hands=_hand_lookup(pm,rec)
+            if hands is None:raise ValueError('cannot_reestablish_original_hand_mapping')
+            ranges,reason=segment_bounds(pm,hands,min_s,max_s,ideal_s,max_cut_cost)
+            if reason:raise ValueError(reason)
+            dest=out/'phrase_v5'/key;dest.mkdir(parents=True,exist_ok=True)
+            clips=[]
+            for i,(a,b,feature) in enumerate(ranges,1):
+                path=dest/f'segment_{i:03d}.mid'
+                build.write_clip(pm,hands,a,b,path)
+                check=pretty_midi.PrettyMIDI(str(path))
+                if len([x for x in check.instruments if x.notes])!=2:
+                    raise ValueError('clip_lost_one_hand')
+                clips.append({'segment_id':f'{key}_v5_{i:03d}','start_sec':a,'end_sec':b,
+                              'duration_sec':round(b-a,3), 'midi_path':str(path.relative_to(out)),
+                              'cut_metrics':feature})
+            result.update(status='ready_for_listening_review',segments=clips)
+            (dest/'metadata_v5.json').write_text(json.dumps({**rec,'segments':clips,'segmentation_version':'phrase_v5',
+                'human_audition_status':'pending'},ensure_ascii=False,indent=2),encoding='utf-8')
+            good.append(result)
+        except Exception as e:
+            result.update(status='needs_manual_segmentation',reason=str(e))
+        report.append(result)
+        print(f'[{k}/{len(accepted)}] {result["status"]}: {result["title"]}',flush=True)
+    (out/'phrase_v5_report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
+    return {'accepted_previous_preserved':len(accepted),'v5_resegmented':len(good),
+            'needs_manual_segmentation':len(report)-len(good),'v5_clips':sum(len(r['segments']) for r in good)}
+
+
+def main():
+    p=argparse.ArgumentParser()
+    p.add_argument('--out',default='output');p.add_argument('--min-sec',type=float,default=20)
+    p.add_argument('--max-sec',type=float,default=40);p.add_argument('--ideal-sec',type=float,default=30)
+    p.add_argument('--max-cut-cost',type=float,default=12)
+    p.add_argument('--limit',type=int,default=0)
+    a=p.parse_args()
+    print(json.dumps(audit_and_segment(a.out,a.min_sec,a.max_sec,a.ideal_sec,a.max_cut_cost,a.limit),indent=2))
+if __name__=='__main__':main()

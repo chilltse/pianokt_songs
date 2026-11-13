@@ -1,0 +1,75 @@
+{
+  "file": "1483.mid",
+  "title": "Suite BWV 1006a",
+  "composer": "Johann Sebastian Bach",
+  "genre": "Baroque",
+  "license": "CC-BY-SA-3.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1483",
+  "attribution": "Typeset by Hajo Dezelski dl1sdz (at) gmail.com http://www.roxele.de/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1483.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_6/bwv-1006a_6.mid",
+  "piece_id": "1483",
+  "status": "accepted",
+  "sha256": "fd62b4478a9f82b0b701f3e20a3fdd54b4f46aa9cfc58339b1d357925e626863",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 1,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 2.45,
+    "pitch_span": 38,
+    "chord_onset_fraction": 0.007,
+    "min_hand_notes": 132
+  },
+  "duration_sec": 145.0,
+  "segments": [
+    {
+      "segment_id": "fd62b4478a9f82b0_001",
+      "start_sec": 0.0,
+      "end_sec": 32.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/fd62b4478a9f82b0/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "fd62b4478a9f82b0_002",
+      "start_sec": 32.0,
+      "end_sec": 60.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/fd62b4478a9f82b0/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "fd62b4478a9f82b0_003",
+      "start_sec": 60.0,
+      "end_sec": 88.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/fd62b4478a9f82b0/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "fd62b4478a9f82b0_004",
+      "start_sec": 88.0,
+      "end_sec": 116.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/fd62b4478a9f82b0/segment_004.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "fd62b4478a9f82b0_005",
+      "start_sec": 116.0,
+      "end_sec": 145.0,
+      "duration_sec": 29.0,
+      "midi_path": "accepted/fd62b4478a9f82b0/segment_005.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1483"
+}

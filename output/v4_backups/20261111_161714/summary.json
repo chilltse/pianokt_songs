@@ -1,0 +1,25 @@
+{
+  "candidates": 788,
+  "accepted": 42,
+  "target": 300,
+  "target_reached": false,
+  "rejections": {
+    "above_intermediate_heuristic": 177,
+    "not_solo_piano": 271,
+    "Missing MIDI or LilyPond links": 112,
+    "midi_track_names_do_not_prove_hands": 167,
+    "not_exactly_two_non_drum_note_tracks": 19
+  },
+  "genres": {
+    "Folk": 9,
+    "Baroque": 12,
+    "Romantic": 9,
+    "Classical": 9,
+    "Romantic Arranger(s): n/a": 1,
+    "Modern": 2
+  },
+  "pending_human_audition": 42,
+  "discovered_source_ids": 788,
+  "source": "Mutopia",
+  "attempted_this_run": 26
+}

@@ -1,0 +1,100 @@
+{
+  "file": "2026.mid",
+  "title": "Chapitres Tournés en Tous Sens",
+  "composer": "Erik Satie",
+  "genre": "Modern",
+  "license": "CC-BY-SA-4.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2026",
+  "attribution": "Typeset by Knute Snortum knute (at) snortum (dot) net http://www.musicwithknute.com/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "2026.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/SatieE/Chapitres/Le_porteur/Le_porteur.mid",
+  "piece_id": "2026",
+  "status": "accepted",
+  "sha256": "3ea01cba8e2d998c91e4f0f3f7417b16b662f0682310f2a042656aab5d6302e6",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.04,
+    "pitch_span": 66,
+    "chord_onset_fraction": 0.153,
+    "min_hand_notes": 83
+  },
+  "duration_sec": 103.12,
+  "segments": [
+    {
+      "segment_id": "3ea01cba8e2d998c_v5_001",
+      "start_sec": 0.0,
+      "end_sec": 22.5,
+      "duration_sec": 22.5,
+      "midi_path": "accepted/3ea01cba8e2d998c/segment_001.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 2.0,
+        "post_rest": 2.0,
+        "shared_rest": 4.0,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "3ea01cba8e2d998c_v5_002",
+      "start_sec": 22.5,
+      "end_sec": 55.5,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/3ea01cba8e2d998c/segment_002.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0.047,
+        "post_rest": 1.0,
+        "shared_rest": 1.047,
+        "boundary_cost": -20.0,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "3ea01cba8e2d998c_v5_003",
+      "start_sec": 55.5,
+      "end_sec": 81.0,
+      "duration_sec": 25.5,
+      "midi_path": "accepted/3ea01cba8e2d998c/segment_003.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 2,
+        "pre_rest": 0.047,
+        "post_rest": 0.0,
+        "shared_rest": 0.047,
+        "boundary_cost": 10.786,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "3ea01cba8e2d998c_v5_004",
+      "start_sec": 81.0,
+      "end_sec": 103.125,
+      "duration_sec": 22.125,
+      "midi_path": "accepted/3ea01cba8e2d998c/segment_004.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2026",
+  "segmentation_version": "phrase_v5"
+}

@@ -1,0 +1,70 @@
+{
+  "file": "v5_mutopia/c5b7349d54b4223908ea/rendered.mid",
+  "title": "La Petite Réunion",
+  "composer": "Johann Friedrich Franz Burgmüller (1806-1874)",
+  "genre": "Romantic",
+  "license": "Public Domain",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BurgmullerJFF/O100/25EF-04/25EF-04.ly",
+  "attribution": "Typeset by Bas Wassink; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "v5_mutopia/c5b7349d54b4223908ea/25EF-04.ly",
+  "midi_url": "generated_from_licensed_lilypond",
+  "piece_id": "git_c5b7349d54b42239",
+  "status": "accepted",
+  "sha256": "324166dbd173f73852c3c531a1cd6eeb244403a5625418040eb551b78e421245",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 8.41,
+    "pitch_span": 40,
+    "chord_onset_fraction": 0.284,
+    "min_hand_notes": 103
+  },
+  "duration_sec": 46.97,
+  "segments": [
+    {
+      "segment_id": "324166dbd173f738_v5_001",
+      "start_sec": 0.0,
+      "end_sec": 22.10522,
+      "duration_sec": 22.105,
+      "midi_path": "phrase_v5/324166dbd173f738/segment_001.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 2,
+        "pre_rest": 0.395,
+        "post_rest": 0.0,
+        "shared_rest": 0.395,
+        "boundary_cost": 0.921,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "324166dbd173f738_v5_002",
+      "start_sec": 22.10522,
+      "end_sec": 46.97358,
+      "duration_sec": 24.868,
+      "midi_path": "phrase_v5/324166dbd173f738/segment_002.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BurgmullerJFF/O100/25EF-04/25EF-04.ly",
+  "license_evidence_type": "score_header_declaration",
+  "rights_review_status": "pending",
+  "segmentation_version": "phrase_v5"
+}

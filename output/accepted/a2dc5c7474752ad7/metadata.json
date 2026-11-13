@@ -1,0 +1,59 @@
+{
+  "file": "910.mid",
+  "title": "Miniature No.2",
+  "composer": "Andrew Sidwell",
+  "genre": "Romantic",
+  "license": "CC-BY-SA-2.5",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=910",
+  "attribution": "Typeset by Andrew Sidwell http://entai.co.uk/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "910.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/SidwellA/miniature-2/miniature-2.mid",
+  "piece_id": "910",
+  "status": "accepted",
+  "sha256": "a2dc5c7474752ad77bd8736f6fa8ac6a9e3d5eba030b02b7c0a8f93244dbf837",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 4.07,
+    "pitch_span": 50,
+    "chord_onset_fraction": 0.257,
+    "min_hand_notes": 147
+  },
+  "duration_sec": 76.0,
+  "segments": [
+    {
+      "segment_id": "a2dc5c7474752ad7_001",
+      "start_sec": 0.0,
+      "end_sec": 26.0,
+      "duration_sec": 26.0,
+      "midi_path": "accepted/a2dc5c7474752ad7/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "a2dc5c7474752ad7_002",
+      "start_sec": 26.0,
+      "end_sec": 52.0,
+      "duration_sec": 26.0,
+      "midi_path": "accepted/a2dc5c7474752ad7/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "a2dc5c7474752ad7_003",
+      "start_sec": 52.0,
+      "end_sec": 76.0,
+      "duration_sec": 24.0,
+      "midi_path": "accepted/a2dc5c7474752ad7/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=910"
+}

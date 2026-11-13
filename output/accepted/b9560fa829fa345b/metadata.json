@@ -1,0 +1,100 @@
+{
+  "file": "v5_mutopia/23cb291184ca68e554e6/rendered.mid",
+  "title": "3. VĔTA ZE SONÁTY G DUR",
+  "composer": "Jiři Antonìn Benda",
+  "genre": "Classical",
+  "license": "Public Domain",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BendaJA/Benda_SonateG3/Benda_SonateG3.ly",
+  "attribution": "Typeset by Rune Zedeler; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "v5_mutopia/23cb291184ca68e554e6/Benda_SonateG3.ly",
+  "midi_url": "generated_from_licensed_lilypond",
+  "piece_id": "git_23cb291184ca68e5",
+  "status": "accepted",
+  "sha256": "b9560fa829fa345b5e5ca0e5db1f29736cf9be5e7d1b19768e02cbd9184edf4b",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.86,
+    "pitch_span": 45,
+    "chord_onset_fraction": 0.04,
+    "min_hand_notes": 146
+  },
+  "duration_sec": 120.0,
+  "segments": [
+    {
+      "segment_id": "b9560fa829fa345b_v5_001",
+      "start_sec": 0.0,
+      "end_sec": 40.0,
+      "duration_sec": 40.0,
+      "midi_path": "accepted/b9560fa829fa345b/segment_001.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 2,
+        "pre_rest": 0.25,
+        "post_rest": 0.0,
+        "shared_rest": 0.25,
+        "boundary_cost": 4.25,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "b9560fa829fa345b_v5_002",
+      "start_sec": 40.0,
+      "end_sec": 72.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/b9560fa829fa345b/segment_002.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "b9560fa829fa345b_v5_003",
+      "start_sec": 72.0,
+      "end_sec": 96.0,
+      "duration_sec": 24.0,
+      "midi_path": "accepted/b9560fa829fa345b/segment_003.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 2,
+        "pre_rest": 0.25,
+        "post_rest": 0.0,
+        "shared_rest": 0.25,
+        "boundary_cost": 4.25,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "b9560fa829fa345b_v5_004",
+      "start_sec": 96.0,
+      "end_sec": 120.0,
+      "duration_sec": 24.0,
+      "midi_path": "accepted/b9560fa829fa345b/segment_004.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BendaJA/Benda_SonateG3/Benda_SonateG3.ly",
+  "segmentation_version": "phrase_v5"
+}

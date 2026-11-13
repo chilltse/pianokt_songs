@@ -1,0 +1,52 @@
+{
+  "file": "v5_mutopia/e0a8a65d8699076e0ea7/rendered.mid",
+  "title": "Douce Plainte",
+  "composer": "Johann Friedrich Franz Burgmüller (1806-1874)",
+  "genre": "Romantic",
+  "license": "Public Domain",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BurgmullerJFF/O100/25EF-16/25EF-16.ly",
+  "attribution": "Typeset by Bas Wassink; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "v5_mutopia/e0a8a65d8699076e0ea7/25EF-16.ly",
+  "midi_url": "generated_from_licensed_lilypond",
+  "piece_id": "git_e0a8a65d8699076e",
+  "status": "accepted",
+  "sha256": "fa08d1b8587147a45da07eb193bfb3a84676ca80a81a1a59c7e21b67c41f7808",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 7.77,
+    "pitch_span": 36,
+    "chord_onset_fraction": 0.115,
+    "min_hand_notes": 130
+  },
+  "duration_sec": 33.57,
+  "segments": [
+    {
+      "segment_id": "fa08d1b8587147a4_v5_001",
+      "start_sec": 0.0,
+      "end_sec": 33.57139,
+      "duration_sec": 33.571,
+      "midi_path": "accepted/fa08d1b8587147a4/segment_001.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BurgmullerJFF/O100/25EF-16/25EF-16.ly",
+  "segmentation_version": "phrase_v5"
+}

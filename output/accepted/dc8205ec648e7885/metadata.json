@@ -1,0 +1,100 @@
+{
+  "file": "45.mid",
+  "title": "3. VĔTA ZE SONÁTY G DUR",
+  "composer": "Jiři Antonìn Benda",
+  "genre": "Classical",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=45",
+  "attribution": "Typeset by Rune Zedeler rz (at) daimi.au.dk; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "45.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BendaJA/Benda_SonateG3/Benda_SonateG3.mid",
+  "piece_id": "45",
+  "status": "accepted",
+  "sha256": "dc8205ec648e788568f743a3850f540edce264b365013c097b0854b46106fcac",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.86,
+    "pitch_span": 45,
+    "chord_onset_fraction": 0.04,
+    "min_hand_notes": 146
+  },
+  "duration_sec": 120.0,
+  "segments": [
+    {
+      "segment_id": "dc8205ec648e7885_v5_001",
+      "start_sec": 0.0,
+      "end_sec": 22.0,
+      "duration_sec": 22.0,
+      "midi_path": "accepted/dc8205ec648e7885/segment_001.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "dc8205ec648e7885_v5_002",
+      "start_sec": 22.0,
+      "end_sec": 54.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/dc8205ec648e7885/segment_002.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "dc8205ec648e7885_v5_003",
+      "start_sec": 54.0,
+      "end_sec": 94.0,
+      "duration_sec": 40.0,
+      "midi_path": "accepted/dc8205ec648e7885/segment_003.mid",
+      "cut_metrics": {
+        "crossing_notes": 0,
+        "attacks": 1,
+        "pre_rest": 0.0,
+        "post_rest": 0.0,
+        "shared_rest": 0.0,
+        "boundary_cost": 7.52,
+        "abrupt": false
+      }
+    },
+    {
+      "segment_id": "dc8205ec648e7885_v5_004",
+      "start_sec": 94.0,
+      "end_sec": 120.0,
+      "duration_sec": 26.0,
+      "midi_path": "accepted/dc8205ec648e7885/segment_004.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=45",
+  "segmentation_version": "phrase_v5"
+}

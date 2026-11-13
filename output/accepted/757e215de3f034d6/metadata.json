@@ -1,0 +1,200 @@
+{
+  "file": "1004.mid",
+  "title": "Flat",
+  "composer": "Ramana Kumar",
+  "genre": "Romantic",
+  "license": "CC-BY-SA-3.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1004",
+  "attribution": "Typeset by Ramana Kumar ramana.kumar (at) gmail.com http://xrchz.net; Mutopia Project",
+  "hand_source": "original_explicit",
+  "score_file": "1004.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/KumarR/flat/flat.mid",
+  "piece_id": "1004",
+  "status": "accepted",
+  "sha256": "757e215de3f034d6860897f0e06a20cafb374d5dca9ec6301a20c43a557371e9",
+  "hand_separation_verified": true,
+  "hand_separation_method": "original_explicit",
+  "score_staff_names": null,
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 2.52,
+    "pitch_span": 69,
+    "chord_onset_fraction": 0.491,
+    "min_hand_notes": 648
+  },
+  "duration_sec": 662.0,
+  "segments": [
+    {
+      "segment_id": "757e215de3f034d6_001",
+      "start_sec": 0.0,
+      "end_sec": 32.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_002",
+      "start_sec": 32.0,
+      "end_sec": 62.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_003",
+      "start_sec": 62.0,
+      "end_sec": 90.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_004",
+      "start_sec": 90.0,
+      "end_sec": 118.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_004.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_005",
+      "start_sec": 118.0,
+      "end_sec": 150.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_005.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_006",
+      "start_sec": 150.0,
+      "end_sec": 182.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_006.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_007",
+      "start_sec": 182.0,
+      "end_sec": 218.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_007.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_008",
+      "start_sec": 218.0,
+      "end_sec": 250.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_008.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_009",
+      "start_sec": 250.0,
+      "end_sec": 282.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_009.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_010",
+      "start_sec": 282.0,
+      "end_sec": 314.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_010.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_011",
+      "start_sec": 314.0,
+      "end_sec": 346.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_011.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_012",
+      "start_sec": 346.0,
+      "end_sec": 378.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_012.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_013",
+      "start_sec": 378.0,
+      "end_sec": 410.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_013.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_014",
+      "start_sec": 410.0,
+      "end_sec": 442.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_014.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_015",
+      "start_sec": 442.0,
+      "end_sec": 474.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_015.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_016",
+      "start_sec": 474.0,
+      "end_sec": 502.0,
+      "duration_sec": 28.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_016.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_017",
+      "start_sec": 502.0,
+      "end_sec": 534.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_017.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_018",
+      "start_sec": 534.0,
+      "end_sec": 566.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_018.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_019",
+      "start_sec": 566.0,
+      "end_sec": 598.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_019.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_020",
+      "start_sec": 598.0,
+      "end_sec": 630.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_020.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "757e215de3f034d6_021",
+      "start_sec": 630.0,
+      "end_sec": 662.0,
+      "duration_sec": 32.0,
+      "midi_path": "accepted/757e215de3f034d6/segment_021.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1004"
+}

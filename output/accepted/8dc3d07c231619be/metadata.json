@@ -1,0 +1,59 @@
+{
+  "file": "1482.mid",
+  "title": "Suite BWV 1006a",
+  "composer": "Johann Sebastian Bach",
+  "genre": "Baroque",
+  "license": "CC-BY-SA-3.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1482",
+  "attribution": "Typeset by Hajo Dezelski dl1sdz (at) gmail.com http://www.roxele.de/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1482.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_5/bwv-1006a_5.mid",
+  "piece_id": "1482",
+  "status": "accepted",
+  "sha256": "8dc3d07c231619be0f64da77bd5908509b59902084906578ea20c5e63181010e",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 1,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 2.66,
+    "pitch_span": 36,
+    "chord_onset_fraction": 0.117,
+    "min_hand_notes": 121
+  },
+  "duration_sec": 96.0,
+  "segments": [
+    {
+      "segment_id": "8dc3d07c231619be_001",
+      "start_sec": 0.0,
+      "end_sec": 36.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/8dc3d07c231619be/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "8dc3d07c231619be_002",
+      "start_sec": 36.0,
+      "end_sec": 66.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/8dc3d07c231619be/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "8dc3d07c231619be_003",
+      "start_sec": 66.0,
+      "end_sec": 96.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/8dc3d07c231619be/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1482"
+}

@@ -1,0 +1,51 @@
+{
+  "file": "1615.mid",
+  "title": "Polonaise in D minor",
+  "composer": "Johann Sebastian Bach",
+  "genre": "Baroque",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1615",
+  "attribution": "Typeset by Steven McDougall swmcd (at) world.std.com http://world.std.com/~swmcd/steven/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1615.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh128/BWV-128/BWV-128.mid",
+  "piece_id": "1615",
+  "status": "accepted",
+  "sha256": "0304fd1e65e1e27d613a0b6286a8dcabf99043389c0967addd6703b35d826da9",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.67,
+    "pitch_span": 48,
+    "chord_onset_fraction": 0.0,
+    "min_hand_notes": 51
+  },
+  "duration_sec": 45.0,
+  "segments": [
+    {
+      "segment_id": "0304fd1e65e1e27d_001",
+      "start_sec": 0.0,
+      "end_sec": 22.5,
+      "duration_sec": 22.5,
+      "midi_path": "accepted/0304fd1e65e1e27d/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "0304fd1e65e1e27d_002",
+      "start_sec": 22.5,
+      "end_sec": 45.0,
+      "duration_sec": 22.5,
+      "midi_path": "accepted/0304fd1e65e1e27d/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1615"
+}

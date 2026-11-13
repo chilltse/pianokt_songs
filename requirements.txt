@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+pretty_midi
+mido

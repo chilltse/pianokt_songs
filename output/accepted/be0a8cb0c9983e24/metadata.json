@@ -1,0 +1,52 @@
+{
+  "file": "2175.mid",
+  "title": "Prélude",
+  "composer": "Frederic Chopin",
+  "genre": "Romantic",
+  "license": "CC-BY-SA-4.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2175",
+  "attribution": "Typeset by Knute Snortum knute (at) snortum (dot) net; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "2175.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/ChopinFF/O28/Chop-28-14/Chop-28-14.mid",
+  "piece_id": "2175",
+  "status": "accepted",
+  "sha256": "be0a8cb0c9983e24473f3095474dfb2fe1cee5b137fbf3877dc79ade3d24fed3",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 15.85,
+    "pitch_span": 39,
+    "chord_onset_fraction": 0.0,
+    "min_hand_notes": 51
+  },
+  "duration_sec": 27.38,
+  "segments": [
+    {
+      "segment_id": "be0a8cb0c9983e24_v5_001",
+      "start_sec": 0.0,
+      "end_sec": 27.375,
+      "duration_sec": 27.375,
+      "midi_path": "accepted/be0a8cb0c9983e24/segment_001.mid",
+      "cut_metrics": {
+        "boundary_cost": 0,
+        "abrupt": false,
+        "crossing_notes": 0,
+        "attacks": 0,
+        "pre_rest": 0,
+        "post_rest": 0,
+        "shared_rest": 0
+      }
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2175",
+  "segmentation_version": "phrase_v5"
+}

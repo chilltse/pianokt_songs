@@ -1,0 +1,131 @@
+{
+  "file": "1476.mid",
+  "title": "Suite BWV 1006a",
+  "composer": "Johann Sebastian Bach",
+  "genre": "Baroque",
+  "license": "CC-BY-SA-3.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1476",
+  "attribution": "Typeset by Hajo Dezelski dl1sdz (at) gmail.com http://www.roxele.de/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1476.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_1/bwv-1006a_1.mid",
+  "piece_id": "1476",
+  "status": "accepted",
+  "sha256": "c915cfb8ab5fb3b76b2c3e95d991d7e12209be83b935d4089ab0da50ebf08779",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 4.18,
+    "pitch_span": 43,
+    "chord_onset_fraction": 0.003,
+    "min_hand_notes": 556
+  },
+  "duration_sec": 417.0,
+  "segments": [
+    {
+      "segment_id": "c915cfb8ab5fb3b7_001",
+      "start_sec": 0.0,
+      "end_sec": 33.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_002",
+      "start_sec": 33.0,
+      "end_sec": 66.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_003",
+      "start_sec": 66.0,
+      "end_sec": 99.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_004",
+      "start_sec": 99.0,
+      "end_sec": 132.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_004.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_005",
+      "start_sec": 132.0,
+      "end_sec": 165.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_005.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_006",
+      "start_sec": 165.0,
+      "end_sec": 195.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_006.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_008",
+      "start_sec": 225.0,
+      "end_sec": 255.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_008.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_009",
+      "start_sec": 255.0,
+      "end_sec": 285.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_009.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_010",
+      "start_sec": 285.0,
+      "end_sec": 321.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_010.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_011",
+      "start_sec": 321.0,
+      "end_sec": 354.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_011.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_012",
+      "start_sec": 354.0,
+      "end_sec": 387.0,
+      "duration_sec": 33.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_012.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "c915cfb8ab5fb3b7_013",
+      "start_sec": 387.0,
+      "end_sec": 417.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/c915cfb8ab5fb3b7/segment_013.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1476"
+}

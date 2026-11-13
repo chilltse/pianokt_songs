@@ -1,0 +1,856 @@
+{
+  "existing_accepted": 42,
+  "existing_rejected": 746,
+  "potential_duplicates": [
+    {
+      "kind": "title_composer",
+      "first_piece_id": "826",
+      "duplicate_piece_id": "870",
+      "title": "Traditioner af Swenska Folk-Dansar"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "826",
+      "duplicate_piece_id": "845",
+      "title": "Traditioner af Swenska Folk-Dansar"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "1480",
+      "duplicate_piece_id": "1481",
+      "title": "Suite BWV 1006a"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "1480",
+      "duplicate_piece_id": "1477",
+      "title": "Suite BWV 1006a"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "826",
+      "duplicate_piece_id": "875",
+      "title": "Traditioner af Swenska Folk-Dansar"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "1480",
+      "duplicate_piece_id": "1476",
+      "title": "Suite BWV 1006a"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "826",
+      "duplicate_piece_id": "863",
+      "title": "Traditioner af Swenska Folk-Dansar"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "358",
+      "duplicate_piece_id": "357",
+      "title": "Piano Sonata in C minor (KV. 457)"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "826",
+      "duplicate_piece_id": "818",
+      "title": "Traditioner af Swenska Folk-Dansar"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "826",
+      "duplicate_piece_id": "822",
+      "title": "Traditioner af Swenska Folk-Dansar"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "826",
+      "duplicate_piece_id": "860",
+      "title": "Traditioner af Swenska Folk-Dansar"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "1654",
+      "duplicate_piece_id": "1647",
+      "title": "Consolation"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "1480",
+      "duplicate_piece_id": "1484",
+      "title": "Suite BWV 1006a"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "826",
+      "duplicate_piece_id": "868",
+      "title": "Traditioner af Swenska Folk-Dansar"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "1480",
+      "duplicate_piece_id": "1483",
+      "title": "Suite BWV 1006a"
+    },
+    {
+      "kind": "title_composer",
+      "first_piece_id": "1480",
+      "duplicate_piece_id": "1482",
+      "title": "Suite BWV 1006a"
+    }
+  ],
+  "missing_midi": [],
+  "midi_tempo_warnings": [
+    {
+      "piece_id": "826",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1006",
+      "title": "Chorale setting \\",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1480",
+      "title": "Suite BWV 1006a",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1510",
+      "title": "Piano Sonate Opus 31 No 2 (2nd Movement)",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "45",
+      "title": "3. VĔTA ZE SONÁTY G DUR",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "870",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "2106",
+      "title": "Ermuntre dich, mein schwacher Geist",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "38",
+      "title": "Gymnopédie No. 2",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "2175",
+      "title": "Prélude",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "358",
+      "title": "Piano Sonata in C minor (KV. 457)",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "354",
+      "title": "Kinderscenen",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "37",
+      "title": "Gymnopédie No. 1",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "845",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "2032",
+      "title": "Morning Prayer",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1481",
+      "title": "Suite BWV 1006a",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1477",
+      "title": "Suite BWV 1006a",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "778",
+      "title": "Sonate Opus 10 No.1 - 1st Movement",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "875",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1615",
+      "title": "Polonaise in D minor",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1476",
+      "title": "Suite BWV 1006a",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "863",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "2026",
+      "title": "Chapitres Tournés en Tous Sens",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "39",
+      "title": "Gymnopédie No. 3",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "357",
+      "title": "Piano Sonata in C minor (KV. 457)",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "2156",
+      "title": "The Harebell",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "818",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "822",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "767",
+      "title": "Air",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "860",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "2009",
+      "title": "Gott, wie gross ist deine Güte",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1654",
+      "title": "Consolation",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1647",
+      "title": "Consolation",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "910",
+      "title": "Miniature No.2",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "2080",
+      "title": "Old French Song",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1484",
+      "title": "Suite BWV 1006a",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "868",
+      "title": "Traditioner af Swenska Folk-Dansar",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature",
+            "set_tempo",
+            "time_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1483",
+      "title": "Suite BWV 1006a",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1482",
+      "title": "Suite BWV 1006a",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "1778",
+      "title": "Suite Bergamasque – Clair de Lune",
+      "tempo_metadata_warning": [
+        {
+          "track": 1,
+          "types": [
+            "key_signature"
+          ]
+        },
+        {
+          "track": 2,
+          "types": [
+            "key_signature"
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "Non-destructive report; the original 42 accepted records are unchanged. Title duplicates may represent different movements."
+}

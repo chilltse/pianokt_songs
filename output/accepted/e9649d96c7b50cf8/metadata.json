@@ -1,0 +1,96 @@
+{
+  "file": "657.mid",
+  "title": "Prelude",
+  "composer": "Ramana Kumar",
+  "genre": "Romantic",
+  "license": "CC-BY-SA-3.0",
+  "license_url": "https://www.mutopiaproject.org/legal.html#ccasa",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=657",
+  "attribution": "Typeset by Ramana Kumar ramana.kumar (at) gmail.com http://xrchz.net; Mutopia Project",
+  "hand_source": "original_explicit",
+  "score_file": "657.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/KumarR/ailed/ailed.mid",
+  "piece_id": "657",
+  "status": "accepted",
+  "sha256": "e9649d96c7b50cf8ac6d08d4bf978b28bdd9d3b1da4d0890811006afb8de2f6b",
+  "hand_separation_verified": true,
+  "hand_separation_method": "original_explicit",
+  "score_staff_names": null,
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 2.83,
+    "pitch_span": 48,
+    "chord_onset_fraction": 0.704,
+    "min_hand_notes": 220
+  },
+  "duration_sec": 252.0,
+  "segments": [
+    {
+      "segment_id": "e9649d96c7b50cf8_001",
+      "start_sec": 0.0,
+      "end_sec": 36.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/e9649d96c7b50cf8/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "e9649d96c7b50cf8_002",
+      "start_sec": 36.0,
+      "end_sec": 72.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/e9649d96c7b50cf8/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "e9649d96c7b50cf8_003",
+      "start_sec": 72.0,
+      "end_sec": 102.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/e9649d96c7b50cf8/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "e9649d96c7b50cf8_004",
+      "start_sec": 102.0,
+      "end_sec": 132.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/e9649d96c7b50cf8/segment_004.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "e9649d96c7b50cf8_005",
+      "start_sec": 132.0,
+      "end_sec": 162.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/e9649d96c7b50cf8/segment_005.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "e9649d96c7b50cf8_006",
+      "start_sec": 162.0,
+      "end_sec": 192.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/e9649d96c7b50cf8/segment_006.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "e9649d96c7b50cf8_007",
+      "start_sec": 192.0,
+      "end_sec": 222.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/e9649d96c7b50cf8/segment_007.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "e9649d96c7b50cf8_008",
+      "start_sec": 222.0,
+      "end_sec": 252.0,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/e9649d96c7b50cf8/segment_008.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=657"
+}

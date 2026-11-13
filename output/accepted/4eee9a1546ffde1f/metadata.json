@@ -1,0 +1,115 @@
+{
+  "file": "1778.mid",
+  "title": "Suite Bergamasque – Clair de Lune",
+  "composer": "Claude Debussy",
+  "genre": "Modern",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1778",
+  "attribution": "Typeset by Keith OHara; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "1778.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/DebussyC/L75/debussy_Ste_Bergamesq_Clair/debussy_Ste_Bergamesq_Clair.mid",
+  "piece_id": "1778",
+  "status": "accepted",
+  "sha256": "4eee9a1546ffde1ff74cb9824ba0e57cbc821185a15185bfea9faed97820bf8c",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 4.56,
+    "pitch_span": 70,
+    "chord_onset_fraction": 0.225,
+    "min_hand_notes": 725
+  },
+  "duration_sec": 322.5,
+  "segments": [
+    {
+      "segment_id": "4eee9a1546ffde1f_001",
+      "start_sec": 0.5,
+      "end_sec": 36.0,
+      "duration_sec": 35.5,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_002",
+      "start_sec": 36.0,
+      "end_sec": 72.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_003",
+      "start_sec": 72.0,
+      "end_sec": 103.5,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_003.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_004",
+      "start_sec": 103.5,
+      "end_sec": 135.0,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_004.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_005",
+      "start_sec": 135.0,
+      "end_sec": 166.5,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_005.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_006",
+      "start_sec": 166.5,
+      "end_sec": 193.5,
+      "duration_sec": 27.0,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_006.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_007",
+      "start_sec": 193.5,
+      "end_sec": 225.0,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_007.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_008",
+      "start_sec": 225.0,
+      "end_sec": 261.0,
+      "duration_sec": 36.0,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_008.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_009",
+      "start_sec": 261.0,
+      "end_sec": 292.5,
+      "duration_sec": 31.5,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_009.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "4eee9a1546ffde1f_010",
+      "start_sec": 292.5,
+      "end_sec": 322.5,
+      "duration_sec": 30.0,
+      "midi_path": "accepted/4eee9a1546ffde1f/segment_010.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1778"
+}

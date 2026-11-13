@@ -1,0 +1,43 @@
+{
+  "file": "354.mid",
+  "title": "Kinderscenen",
+  "composer": "Robert Alexander Schumann",
+  "genre": "Romantic Arranger(s): n/a",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=354",
+  "attribution": "Typeset by Ying-Chun Liu grandpaul (at) gmail.com http://www.cis.nctu.edu.tw/~is86007/; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "354.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/SchumannR/O15/SchumannOp15No01/SchumannOp15No01.mid",
+  "piece_id": "354",
+  "status": "accepted",
+  "sha256": "e58e708afe8b31c634a0e9f3354a4ed94670e929d82926f7ff49dea3ebe146c2",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "up": "R",
+    "down": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 10.09,
+    "pitch_span": 37,
+    "chord_onset_fraction": 0.27,
+    "min_hand_notes": 102
+  },
+  "duration_sec": 22.0,
+  "segments": [
+    {
+      "segment_id": "e58e708afe8b31c6_001",
+      "start_sec": 0.0,
+      "end_sec": 22.0,
+      "duration_sec": 22.0,
+      "midi_path": "accepted/e58e708afe8b31c6/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=354"
+}

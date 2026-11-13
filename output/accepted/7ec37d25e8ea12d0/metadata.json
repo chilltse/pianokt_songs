@@ -1,0 +1,51 @@
+{
+  "file": "2032.mid",
+  "title": "Morning Prayer",
+  "composer": "P. I. Tchaikovsky",
+  "genre": "Romantic",
+  "license": "Public Domain",
+  "license_url": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "source_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2032",
+  "attribution": "Typeset by Rem Zolotykh remchi (at) gmail.com; Mutopia Project",
+  "hand_source": "score_staff_verified",
+  "score_file": "2032.ly",
+  "midi_url": "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O39/01MorningPrayer/01MorningPrayer.mid",
+  "piece_id": "2032",
+  "status": "accepted",
+  "sha256": "7ec37d25e8ea12d0b2053a5916140f7d03b4cdf1357c01171fd8a3c1d8c6e50f",
+  "hand_separation_verified": true,
+  "hand_separation_method": "score_staff_verified",
+  "score_staff_names": {
+    "upper": "R",
+    "lower": "L"
+  },
+  "difficulty_bin": 3,
+  "difficulty_is_heuristic": true,
+  "features": {
+    "notes_per_second": 3.53,
+    "pitch_span": 37,
+    "chord_onset_fraction": 0.516,
+    "min_hand_notes": 119
+  },
+  "duration_sec": 69.68,
+  "segments": [
+    {
+      "segment_id": "7ec37d25e8ea12d0_001",
+      "start_sec": 0.0,
+      "end_sec": 34.8387,
+      "duration_sec": 34.8387,
+      "midi_path": "accepted/7ec37d25e8ea12d0/segment_001.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    },
+    {
+      "segment_id": "7ec37d25e8ea12d0_002",
+      "start_sec": 34.8387,
+      "end_sec": 69.6774,
+      "duration_sec": 34.8387,
+      "midi_path": "accepted/7ec37d25e8ea12d0/segment_002.mid",
+      "phrase_boundary_method": "measure+two_hand_rest+onset_sustain_penalty"
+    }
+  ],
+  "human_audition_status": "pending",
+  "rights_evidence_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2032"
+}
